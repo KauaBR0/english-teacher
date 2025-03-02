@@ -2,6 +2,11 @@
 
 Write & Improve is an English writing improvement application that provides AI-powered feedback on grammar, structure, and vocabulary. The application uses Google's Gemini AI to analyze text and provide detailed writing feedback.
 
+
+### you can test it here
+
+https://english-7r4dvehwq-apianime.vercel.app/
+
 ## Features
 
 - **AI-Powered Writing Feedback**: Get instant feedback on your English writing using Google's Gemini AI
